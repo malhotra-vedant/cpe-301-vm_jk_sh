@@ -5,3 +5,11 @@
 - Vedant Malhotra
 - Jude Koenig
 - Shayan Hosseini
+
+## Video
+[https://youtu.be/NPrUFrjqvLI](https://youtu.be/NPrUFrjqvLI) 
+
+## Schematic
+<p>
+  <img src="Useful Files/circuit.png" height="500">
+</p>
