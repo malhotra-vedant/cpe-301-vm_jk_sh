@@ -6,6 +6,8 @@
 - Jude Koenig
 - Shayan Hosseini
 
+## PDF is in the Repo (See Above)
+
 ## Video
 [https://youtu.be/NPrUFrjqvLI](https://youtu.be/NPrUFrjqvLI) 
 
